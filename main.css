@@ -154,7 +154,7 @@ footer a {
 @media screen and (min-width:320px) and (max-width:768px) {
     .card {
         position: relative;
-        left: -40%;
+        left: -20%;
     }
 
     footer {
